@@ -1,4 +1,4 @@
-# Revenue Prediction MLOps Pipeline
+# ETL pipeline using pyspark
 
 A PySpark-based machine learning pipeline that trains a linear regression model to predict revenue based on business metrics, and automatically exports predictions to Snowflake for downstream analytics.
 
